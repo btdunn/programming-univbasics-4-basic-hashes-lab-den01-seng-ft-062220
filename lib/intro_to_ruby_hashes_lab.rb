@@ -5,7 +5,8 @@ end
 
 def my_hash
   my = { 
-    name: Ben
+    name: "Ben"
+  }
 end
 
 def pioneer
